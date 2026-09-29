@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:1e3a8a,100:0ea5e9&height=230&section=header&text=Ahmed%20Effat&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Detect%20%E2%80%A2%20Investigate%20%E2%80%A2%20Defend&descSize=20&descAlignY=64&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:1e3a8a,100:0ea5e9&height=230&section=header&text=Ahmed%20Mohamed%20Effat&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Detect%20%E2%80%A2%20Investigate%20%E2%80%A2%20Defend&descSize=20&descAlignY=64&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&lines=SOC+Analysis+%7C+Network+Security+%7C+Threat+Detection;Turning+raw+logs+into+actionable+insights;Hunting+in+Wazuh%2C+Wireshark+%26+Windows+Event+Logs;Building+AI-assisted+incident+analysis" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ahmed-mohammed-2e2/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Effat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-mohammed-2e2/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed%20Effat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ahmedeffat75@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=ahmedeffat6&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20SOC%20Opportunities-22c55e?style=for-the-badge"/>
@@ -26,7 +26,7 @@ I'm a cybersecurity enthusiast focused on **SOC analysis**, **network security**
 
 ```text
 $ whoami
-ahmed_effat
+ahmed_mohamed_effat
 
 $ cat profile.txt
 role        : Aspiring SOC Analyst
@@ -242,7 +242,7 @@ flowchart LR
 
 I'm always happy to talk SOC work, detection ideas, or lab setups.
 
-<a href="https://www.linkedin.com/in/ahmed-mohammed-2e2/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Effat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-mohammed-2e2/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed%20Effat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ahmedeffat75@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedeffat75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
