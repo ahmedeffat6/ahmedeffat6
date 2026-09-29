@@ -1,158 +1,178 @@
 <div align="center">🛡️ Ahmed Effat
 
-🔎 Cybersecurity | SOC Analysis | Network Security
+Cybersecurity • SOC Analysis • Network Security
 
-Detect • Investigate • Respond • Secure
+🔎 Detect  |  🧠 Investigate  |  🛡️ Defend
 
-<br>""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/ahmed-mohammed-2e2/)
-""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ahmedeffat75@gmail.com)
-
-</div>---
+<br><a href="https://www.linkedin.com/in/ahmed-mohammed-2e2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ahmedeffat75@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a></div>---
 
 👨‍💻 About Me
 
 I'm a Cybersecurity enthusiast focused on SOC Analysis, Network Security, and Threat Detection.
 
-I enjoy working hands-on with security tools, investigating suspicious activity, analyzing logs and network traffic, and turning raw security data into actionable insights.
+I enjoy working hands-on with security tools and investigating suspicious activity through logs, alerts, network traffic, and security events.
 
-My goal is to develop the practical skills needed to identify threats earlier, investigate incidents effectively, and support faster and more accurate security response.
-
-«🛡️ Learn → Build → Detect → Investigate → Improve»
+My goal is to turn raw security data into actionable insights that help identify threats earlier and support faster, more accurate incident response.
 
 ---
 
-🎯 Cybersecurity Focus
+🛡️ Cybersecurity Focus
 
-<div align="center">🛡️ SOC Operations| 🔎 Threat Detection| 🌐 Network Security
-SIEM Monitoring| Alert Analysis| Network Traffic
-Log Analysis| IOC Analysis| Protocol Analysis
-Security Events| MITRE ATT&CK| TCP/IP
-Incident Investigation| Sigma| DNS / HTTP / TLS
+🔎 SOC Analysis
+📊 SIEM & Security Monitoring
+🚨 Alert & Log Analysis
+🌐 Network Security
+🧠 Threat Detection
+🔍 Incident Investigation
+🐧 Linux & Windows Security
+🧪 Hands-on Security Labs
+🤖 AI-assisted Cybersecurity
 
-</div>---
+---
 
-🧰 Security Toolkit
+🔐 Security Toolkit
 
-🛡️ SOC & Security Monitoring
+🛡️ SOC & Detection
 
-<p align="left"><a href="https://wazuh.com/">
-<img src="https://img.shields.io/badge/Wazuh-4B5563?style=for-the-badge&logo=wazuh&logoColor=white"/>
-</a><img src="https://img.shields.io/badge/SIEM-1E3A8A?style=for-the-badge&logo=securityscorecard&logoColor=white"/><img src="https://img.shields.io/badge/EDR%2FXDR-374151?style=for-the-badge&logo=shield&logoColor=white"/><img src="https://img.shields.io/badge/Log%20Analysis-0F766E?style=for-the-badge&logo=datadog&logoColor=white"/></p>🔎 Threat Detection & Investigation
+<p align="left">
+<img src="https://img.shields.io/badge/Wazuh-4B5563?style=flat-square&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIEM-1E3A8A?style=flat-square&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat%20Detection-B91C1C?style=flat-square&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Incident%20Response-7C2D12?style=flat-square&logo=incident&logoColor=white"/>
+</p>🌐 Network Security
 
-<p align="left"><img src="https://img.shields.io/badge/MITRE%20ATT%26CK-B91C1C?style=for-the-badge&logo=target&logoColor=white"/><img src="https://img.shields.io/badge/Sigma-7C3AED?style=for-the-badge&logo=security&logoColor=white"/><img src="https://img.shields.io/badge/IOC%20Analysis-9F1239?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/Threat%20Intelligence-7E22CE?style=for-the-badge&logo=virustotal&logoColor=white"/></p>🌐 Network Security
+<p align="left">
+<img src="https://img.shields.io/badge/Wireshark-1677C8?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network%20Security-1D4ED8?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-1E40AF?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/DNS-0369A1?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-0F766E?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/TLS-047857?style=flat-square&logo=letsencrypt&logoColor=white"/>
+</p>🧠 Threat Intelligence & Detection
 
-<p align="left"><img src="https://img.shields.io/badge/Wireshark-1677C8?style=for-the-badge&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Zeek-1D4ED8?style=for-the-badge&logo=zeek&logoColor=white"/><img src="https://img.shields.io/badge/Snort-C41E3A?style=for-the-badge&logo=snort&logoColor=white"/><img src="https://img.shields.io/badge/Suricata-EF4444?style=for-the-badge&logo=suricata&logoColor=white"/></p>💻 Systems & Scripting
+<p align="left">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-B91C1C?style=flat-square&logo=target&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sigma-7C3AED?style=flat-square&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/IOC%20Analysis-9F1239?style=flat-square&logo=search&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat%20Intelligence-6B21A8?style=flat-square&logo=virustotal&logoColor=white"/>
+</p>💻 Systems & Scripting
 
-<p align="left"><img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></p>🌐 Networking & Web Security
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="45" height="45" alt="PowerShell"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</p>---
 
-<p align="left"><img src="https://img.shields.io/badge/TCP%2FIP-1E40AF?style=for-the-badge&logo=cisco&logoColor=white"/><img src="https://img.shields.io/badge/DNS-0369A1?style=for-the-badge&logo=cloudflare&logoColor=white"/><img src="https://img.shields.io/badge/HTTP%2FHTTPS-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/><img src="https://img.shields.io/badge/TLS-047857?style=for-the-badge&logo=letsencrypt&logoColor=white"/></p>---
-
-🚀 Cybersecurity Projects
+🧪 Hands-on Security Lab
 
 🛡️ Wazuh SOC Home Lab
 
-A practical SOC environment built to simulate real-world security monitoring and investigation workflows.
+A practical SOC environment for monitoring and investigating security events across Windows and Linux endpoints.
 
-🔎 Focus
+What I practice:
 
-"SIEM" "Log Analysis" "FIM" "Windows Events" "Linux" "Apache" "PowerShell" "SSH"
-
-🧪 Hands-on Work
-
-- Security alert investigation
-- Windows Event Log monitoring
-- PowerShell activity detection
-- File Integrity Monitoring
-- Apache log analysis
-- SSH authentication investigation
-- Suspicious activity analysis
+- 🔎 Security alert investigation
+- 📊 SIEM monitoring
+- 📝 Windows Event Log analysis
+- ⚡ PowerShell activity monitoring
+- 🔐 SSH authentication investigation
+- 🌐 Apache log analysis
+- 📁 File Integrity Monitoring
+- 🚨 Suspicious activity investigation
+- 🧠 Mapping security activity to attack techniques
 
 ---
+
+🚀 Cybersecurity Projects
 
 🧠 AI-Assisted Incident Hypothesis Generator
 
-An AI-assisted cybersecurity project designed to analyze security events and generate confidence-scored incident hypotheses to support security analysts during investigation.
+An AI-assisted cybersecurity project designed to analyze security events and generate confidence-scored incident hypotheses to support analysts during investigation.
 
-🔎 Focus
+Focus:
 
-"AI" "Incident Response" "Threat Detection" "Security Analytics"
+"AI" "Threat Detection" "Incident Response" "Security Analytics"
 
 ---
 
-🎓 Certifications & Learning
+🎓 Certifications
 
-✅ Completed
-
-- 🏅 Cisco CCNA
-- 🏅 Certified Ethical Hacker (CEH)
+<p align="left"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CEH-CC0000?style=flat-square&logo=ec-council&logoColor=white"/></p>---
 
 📚 Currently Developing
 
-- 🔐 Security+
-- 🛡️ SOC Operations
-- 🚨 Incident Response
-- 🔎 Threat Detection
-- 🧠 Cybersecurity & AI
+🔐 Security+
+🛡️ SOC Operations
+🚨 Incident Response
+🔎 Threat Detection
+🧠 AI + Cybersecurity
+🌐 Network Security
 
 ---
 
-🧪 My SOC Investigation Approach
+🔍 My SOC Investigation Workflow
 
-        🚨 ALERT
-           │
-           ▼
-      🔎 TRIAGE
-           │
-           ▼
-      📊 ANALYZE LOGS
-           │
-           ▼
-      🌐 INVESTIGATE
-           │
-           ▼
-      🧠 IDENTIFY THREAT
-           │
-           ▼
-      🚑 RESPOND
-           │
-           ▼
-      📝 DOCUMENT
-           │
-           ▼
-      🔄 IMPROVE DETECTION
+<div align="center">🚨 Alert
 
----
+⬇️
 
-📊 GitHub Activity
+🔎 Triage
 
-<div align="center"><img src="https://github-readme-stats.shion.dev/api?username=ahmedeffat6&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedeffat6&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/><br><img src="https://streak-stats.demolab.com/?user=ahmedeffat6&theme=github-dark-blue&hide_border=true"/></div>---
+⬇️
 
-📈 What I'm Building
+📊 Log & Event Analysis
 
-I'm continuously working on practical cybersecurity projects and labs to improve my ability to:
+⬇️
 
-🔎 Detect suspicious activity
+🌐 Network Investigation
 
-📊 Analyze security data
+⬇️
 
-🚨 Investigate alerts
+🧠 Threat Identification
 
-🌐 Understand attack behavior
+⬇️
 
-🛡️ Improve detection capabilities
+🛡️ Response
 
-🤖 Apply AI to cybersecurity workflows
+⬇️
 
----
+📝 Documentation
 
-📫 Connect With Me
+⬇️
 
-<div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-Ahmed%20Effat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/ahmed-mohammed-2e2/)
-
-""Email" (https://img.shields.io/badge/Email-ahmedeffat75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ahmedeffat75@gmail.com)
+🔄 Detection Improvement
 
 </div>---
 
-<div align="center">🛡️ Detect. Investigate. Secure.
+📊 GitHub Statistics
+
+<div align="center"><img height="170" src="https://github-readme-stats.shion.dev/api?username=ahmedeffat6&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"/><img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedeffat6&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"/><br><br>
+
+<img src="https://streak-stats.demolab.com/?user=ahmedeffat6&theme=github-dark-blue&hide_border=true"/></div>---
+
+📫 Connect With Me
+
+<div align="center"><a href="https://www.linkedin.com/in/ahmed-mohammed-2e2/">
+<img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Effat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:ahmedeffat75@gmail.com">
+<img src="https://img.shields.io/badge/Email-ahmedeffat75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div>---
+
+<div align="center">🛡️ Detect • Investigate • Secure
 
 </div>
